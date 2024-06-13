@@ -1,0 +1,241 @@
+State,Year,Month,TelehealthType,ServiceType,ServiceCount,RatePer1000Beneficiaries,DataQuality
+Tennessee,2018,201801,"Live audio/video",All," 2,295 ",1.0,
+Tennessee,2018,201801,"Other telehealth",All," DS ",DS,
+Tennessee,2018,201801,"Remote patient monitoring",All," DS ",DS,
+Tennessee,2018,201801,"Store and forward",All," -   ",0,
+Tennessee,2018,201802,"Live audio/video",All," 2,423 ",1.0,
+Tennessee,2018,201802,"Other telehealth",All," DS ",DS,
+Tennessee,2018,201802,"Remote patient monitoring",All," -   ",0,
+Tennessee,2018,201802,"Store and forward",All," -   ",0,
+Tennessee,2018,201803,"Live audio/video",All," 2,459 ",1.1,
+Tennessee,2018,201803,"Other telehealth",All," DS ",DS,
+Tennessee,2018,201803,"Remote patient monitoring",All," DS ",DS,
+Tennessee,2018,201803,"Store and forward",All," -   ",0,
+Tennessee,2018,201804,"Live audio/video",All," 2,567 ",1.1,
+Tennessee,2018,201804,"Other telehealth",All," DS ",DS,
+Tennessee,2018,201804,"Remote patient monitoring",All," DS ",DS,
+Tennessee,2018,201804,"Store and forward",All," -   ",0,
+Tennessee,2018,201805,"Live audio/video",All," 2,645 ",1.2,
+Tennessee,2018,201805,"Other telehealth",All," DS ",DS,
+Tennessee,2018,201805,"Remote patient monitoring",All," DS ",DS,
+Tennessee,2018,201805,"Store and forward",All," DS ",DS,
+Tennessee,2018,201806,"Live audio/video",All," 2,425 ",1.1,
+Tennessee,2018,201806,"Other telehealth",All," DS ",DS,
+Tennessee,2018,201806,"Remote patient monitoring",All," 12 ",0,
+Tennessee,2018,201806,"Store and forward",All," DS ",DS,
+Tennessee,2018,201807,"Live audio/video",All," 2,680 ",1.2,
+Tennessee,2018,201807,"Other telehealth",All," DS ",DS,
+Tennessee,2018,201807,"Remote patient monitoring",All," DS ",DS,
+Tennessee,2018,201807,"Store and forward",All," DS ",DS,
+Tennessee,2018,201808,"Live audio/video",All," 3,226 ",1.5,
+Tennessee,2018,201808,"Other telehealth",All," DS ",DS,
+Tennessee,2018,201808,"Remote patient monitoring",All," DS ",DS,
+Tennessee,2018,201808,"Store and forward",All," DS ",DS,
+Tennessee,2018,201809,"Live audio/video",All," 3,046 ",1.4,
+Tennessee,2018,201809,"Other telehealth",All," DS ",DS,
+Tennessee,2018,201809,"Remote patient monitoring",All," 35 ",0,
+Tennessee,2018,201809,"Store and forward",All," DS ",DS,
+Tennessee,2018,201810,"Live audio/video",All," 3,565 ",1.6,
+Tennessee,2018,201810,"Other telehealth",All," DS ",DS,
+Tennessee,2018,201810,"Remote patient monitoring",All," 22 ",0,
+Tennessee,2018,201810,"Store and forward",All," DS ",DS,
+Tennessee,2018,201811,"Live audio/video",All," 3,643 ",1.7,
+Tennessee,2018,201811,"Other telehealth",All," 19 ",0,
+Tennessee,2018,201811,"Remote patient monitoring",All," 27 ",0,
+Tennessee,2018,201811,"Store and forward",All," DS ",DS,
+Tennessee,2018,201812,"Live audio/video",All," 2,940 ",1.6,
+Tennessee,2018,201812,"Other telehealth",All," DS ",DS,
+Tennessee,2018,201812,"Remote patient monitoring",All," 22 ",0,
+Tennessee,2018,201812,"Store and forward",All," DS ",DS,
+Tennessee,2019,201901,"Live audio/video",All," 3,569 ",1.1,Unusable
+Tennessee,2019,201901,"Other telehealth",All," DS ",DS,Unusable
+Tennessee,2019,201901,"Remote patient monitoring",All," 27 ",0,Unusable
+Tennessee,2019,201901,"Store and forward",All," DS ",DS,Unusable
+Tennessee,2019,201902,"Live audio/video",All," 3,388 ",1.1,Unusable
+Tennessee,2019,201902,"Other telehealth",All," 11 ",0,Unusable
+Tennessee,2019,201902,"Remote patient monitoring",All," 21 ",0,Unusable
+Tennessee,2019,201902,"Store and forward",All," -   ",0,Unusable
+Tennessee,2019,201903,"Live audio/video",All," 3,540 ",1.1,Unusable
+Tennessee,2019,201903,"Other telehealth",All," 16 ",0,Unusable
+Tennessee,2019,201903,"Remote patient monitoring",All," 27 ",0,Unusable
+Tennessee,2019,201903,"Store and forward",All," DS ",DS,Unusable
+Tennessee,2019,201904,"Live audio/video",All," 3,918 ",1.2,Unusable
+Tennessee,2019,201904,"Other telehealth",All," 11 ",0,Unusable
+Tennessee,2019,201904,"Remote patient monitoring",All," 27 ",0,Unusable
+Tennessee,2019,201904,"Store and forward",All," DS ",DS,Unusable
+Tennessee,2019,201905,"Live audio/video",All," 3,878 ",1.2,Unusable
+Tennessee,2019,201905,"Other telehealth",All," DS ",DS,Unusable
+Tennessee,2019,201905,"Remote patient monitoring",All," 15 ",0,Unusable
+Tennessee,2019,201905,"Store and forward",All," DS ",DS,Unusable
+Tennessee,2019,201906,"Live audio/video",All," 3,614 ",1.1,Unusable
+Tennessee,2019,201906,"Other telehealth",All," DS ",DS,Unusable
+Tennessee,2019,201906,"Remote patient monitoring",All," 13 ",0,Unusable
+Tennessee,2019,201906,"Store and forward",All," -   ",0,Unusable
+Tennessee,2019,201907,"Live audio/video",All," 3,781 ",1.2,Unusable
+Tennessee,2019,201907,"Other telehealth",All," DS ",DS,Unusable
+Tennessee,2019,201907,"Remote patient monitoring",All," 16 ",0,Unusable
+Tennessee,2019,201907,"Store and forward",All," -   ",0,Unusable
+Tennessee,2019,201908,"Live audio/video",All," 4,115 ",1.3,Unusable
+Tennessee,2019,201908,"Other telehealth",All," 15 ",0,Unusable
+Tennessee,2019,201908,"Remote patient monitoring",All," 17 ",0,Unusable
+Tennessee,2019,201908,"Store and forward",All," DS ",DS,Unusable
+Tennessee,2019,201909,"Live audio/video",All," 4,204 ",1.3,Unusable
+Tennessee,2019,201909,"Other telehealth",All," DS ",DS,Unusable
+Tennessee,2019,201909,"Remote patient monitoring",All," DS ",DS,Unusable
+Tennessee,2019,201909,"Store and forward",All," DS ",DS,Unusable
+Tennessee,2019,201910,"Live audio/video",All," 4,310 ",1.4,Unusable
+Tennessee,2019,201910,"Other telehealth",All," 11 ",0,Unusable
+Tennessee,2019,201910,"Remote patient monitoring",All," 12 ",0,Unusable
+Tennessee,2019,201910,"Store and forward",All," DS ",DS,Unusable
+Tennessee,2019,201911,"Live audio/video",All," 3,739 ",1.2,Unusable
+Tennessee,2019,201911,"Other telehealth",All," DS ",DS,Unusable
+Tennessee,2019,201911,"Remote patient monitoring",All," 21 ",0,Unusable
+Tennessee,2019,201911,"Store and forward",All," DS ",DS,Unusable
+Tennessee,2019,201912,"Live audio/video",All," 3,607 ",1.2,Unusable
+Tennessee,2019,201912,"Other telehealth",All," DS ",DS,Unusable
+Tennessee,2019,201912,"Remote patient monitoring",All," 18 ",0,Unusable
+Tennessee,2019,201912,"Store and forward",All," DS ",DS,Unusable
+Tennessee,2020,202001,"Live audio/video",All," 4,661 ",1.5,Unusable
+Tennessee,2020,202001,"Other telehealth",All," 11 ",0,Unusable
+Tennessee,2020,202001,"Remote patient monitoring",All," 49 ",0,Unusable
+Tennessee,2020,202001,"Store and forward",All," DS ",DS,Unusable
+Tennessee,2020,202002,"Live audio/video",All," 4,542 ",1.5,Unusable
+Tennessee,2020,202002,"Other telehealth",All," 17 ",0,Unusable
+Tennessee,2020,202002,"Remote patient monitoring",All," 50 ",0,Unusable
+Tennessee,2020,202002,"Store and forward",All," DS ",DS,Unusable
+Tennessee,2020,202003,"Live audio/video",All," 55,086 ",17.8,Unusable
+Tennessee,2020,202003,"Other telehealth",All," 504 ",0,Unusable
+Tennessee,2020,202003,"Remote patient monitoring",All," 129 ",0,Unusable
+Tennessee,2020,202003,"Store and forward",All," 162 ",0,Unusable
+Tennessee,2020,202004,"Live audio/video",All," 234,398 ",76.6,Unusable
+Tennessee,2020,202004,"Other telehealth",All," 1,277 ",0,Unusable
+Tennessee,2020,202004,"Remote patient monitoring",All," 190 ",0,Unusable
+Tennessee,2020,202004,"Store and forward",All," 574 ",0,Unusable
+Tennessee,2020,202005,"Live audio/video",All," 186,535 ",60.7,Unusable
+Tennessee,2020,202005,"Other telehealth",All," 280 ",0,Unusable
+Tennessee,2020,202005,"Remote patient monitoring",All," 239 ",0,Unusable
+Tennessee,2020,202005,"Store and forward",All," 343 ",0,Unusable
+Tennessee,2020,202006,"Live audio/video",All," 163,236 ",52.7,Unusable
+Tennessee,2020,202006,"Other telehealth",All," 163 ",0,Unusable
+Tennessee,2020,202006,"Remote patient monitoring",All," 262 ",0,Unusable
+Tennessee,2020,202006,"Store and forward",All," 241 ",0,Unusable
+Tennessee,2020,202007,"Live audio/video",All," 158,945 ",55.3,Unusable
+Tennessee,2020,202007,"Other telehealth",All," 180 ",0,Unusable
+Tennessee,2020,202007,"Remote patient monitoring",All," 269 ",0,Unusable
+Tennessee,2020,202007,"Store and forward",All," 196 ",0,Unusable
+Tennessee,2020,202008,"Live audio/video",All," 147,316 ",50.9,Unusable
+Tennessee,2020,202008,"Other telehealth",All," 167 ",0,Unusable
+Tennessee,2020,202008,"Remote patient monitoring",All," 232 ",0,Unusable
+Tennessee,2020,202008,"Store and forward",All," 186 ",0,Unusable
+Tennessee,2020,202009,"Live audio/video",All," 145,167 ",49.9,Unusable
+Tennessee,2020,202009,"Other telehealth",All," 133 ",0,Unusable
+Tennessee,2020,202009,"Remote patient monitoring",All," 254 ",0,Unusable
+Tennessee,2020,202009,"Store and forward",All," 310 ",0,Unusable
+Tennessee,2020,202010,"Live audio/video",All," 141,122 ",48.2,Unusable
+Tennessee,2020,202010,"Other telehealth",All," 131 ",0,Unusable
+Tennessee,2020,202010,"Remote patient monitoring",All," 247 ",0,Unusable
+Tennessee,2020,202010,"Store and forward",All," 262 ",0,Unusable
+Tennessee,2020,202011,"Live audio/video",All," 135,314 ",46.0,Unusable
+Tennessee,2020,202011,"Other telehealth",All," 169 ",0,Unusable
+Tennessee,2020,202011,"Remote patient monitoring",All," 259 ",0,Unusable
+Tennessee,2020,202011,"Store and forward",All," 228 ",0,Unusable
+Tennessee,2020,202012,"Live audio/video",All," 151,962 ",51.4,Unusable
+Tennessee,2020,202012,"Other telehealth",All," 260 ",0,Unusable
+Tennessee,2020,202012,"Remote patient monitoring",All," 283 ",0,Unusable
+Tennessee,2020,202012,"Store and forward",All," 284 ",0,Unusable
+Tennessee,2021,202101,"Live audio/video",All," 151,919 ",51.2,Unusable
+Tennessee,2021,202101,"Other telehealth",All," 245 ",0,Unusable
+Tennessee,2021,202101,"Remote patient monitoring",All," 467 ",0,Unusable
+Tennessee,2021,202101,"Store and forward",All," 243 ",0,Unusable
+Tennessee,2021,202102,"Live audio/video",All," 150,104 ",50.5,Unusable
+Tennessee,2021,202102,"Other telehealth",All," 251 ",0,Unusable
+Tennessee,2021,202102,"Remote patient monitoring",All," 344 ",0,Unusable
+Tennessee,2021,202102,"Store and forward",All," 254 ",0,Unusable
+Tennessee,2021,202103,"Live audio/video",All," 143,629 ",48.1,Unusable
+Tennessee,2021,202103,"Other telehealth",All," 142 ",0,Unusable
+Tennessee,2021,202103,"Remote patient monitoring",All," 424 ",0,Unusable
+Tennessee,2021,202103,"Store and forward",All," 240 ",0,Unusable
+Tennessee,2021,202104,"Live audio/video",All," 125,712 ",42.0,Unusable
+Tennessee,2021,202104,"Other telehealth",All," 155 ",0,Unusable
+Tennessee,2021,202104,"Remote patient monitoring",All," 531 ",0,Unusable
+Tennessee,2021,202104,"Store and forward",All," 179 ",0,Unusable
+Tennessee,2021,202105,"Live audio/video",All," 109,294 ",62.2,
+Tennessee,2021,202105,"Other telehealth",All," 127 ",0,
+Tennessee,2021,202105,"Remote patient monitoring",All," 533 ",0,
+Tennessee,2021,202105,"Store and forward",All," 153 ",0,
+Tennessee,2021,202106,"Live audio/video",All," 103,151 ",58.4,
+Tennessee,2021,202106,"Other telehealth",All," 113 ",0,
+Tennessee,2021,202106,"Remote patient monitoring",All," 439 ",0,
+Tennessee,2021,202106,"Store and forward",All," 112 ",0,
+Tennessee,2021,202107,"Live audio/video",All," 78,437 ",44.2,
+Tennessee,2021,202107,"Other telehealth",All," 113 ",0,
+Tennessee,2021,202107,"Remote patient monitoring",All," 420 ",0,
+Tennessee,2021,202107,"Store and forward",All," 106 ",0,
+Tennessee,2021,202108,"Live audio/video",All," 92,380 ",51.8,
+Tennessee,2021,202108,"Other telehealth",All," 157 ",0,
+Tennessee,2021,202108,"Remote patient monitoring",All," 486 ",0,
+Tennessee,2021,202108,"Store and forward",All," 108 ",0,
+Tennessee,2021,202109,"Live audio/video",All," 99,549 ",55.5,
+Tennessee,2021,202109,"Other telehealth",All," 173 ",0,
+Tennessee,2021,202109,"Remote patient monitoring",All," 516 ",0,
+Tennessee,2021,202109,"Store and forward",All," 91 ",0,
+Tennessee,2021,202110,"Live audio/video",All," 87,193 ",48.4,
+Tennessee,2021,202110,"Other telehealth",All," 183 ",0,
+Tennessee,2021,202110,"Remote patient monitoring",All," 584 ",0,
+Tennessee,2021,202110,"Store and forward",All," 58 ",0,
+Tennessee,2021,202111,"Live audio/video",All," 86,210 ",47.6,
+Tennessee,2021,202111,"Other telehealth",All," 152 ",0,
+Tennessee,2021,202111,"Remote patient monitoring",All," 678 ",0,
+Tennessee,2021,202111,"Store and forward",All," 38 ",0,
+Tennessee,2021,202112,"Live audio/video",All," 86,051 ",47.3,
+Tennessee,2021,202112,"Other telehealth",All," 130 ",0,
+Tennessee,2021,202112,"Remote patient monitoring",All," 794 ",0,
+Tennessee,2021,202112,"Store and forward",All," 58 ",0,
+Tennessee,2022,202201,"Live audio/video",All," 108,387 ",59.3,
+Tennessee,2022,202201,"Other telehealth",All," 189 ",0,
+Tennessee,2022,202201,"Remote patient monitoring",All," 817 ",0,
+Tennessee,2022,202201,"Store and forward",All," 80 ",0,
+Tennessee,2022,202202,"Live audio/video",All," 89,129 ",48.6,
+Tennessee,2022,202202,"Other telehealth",All," 136 ",0,
+Tennessee,2022,202202,"Remote patient monitoring",All," 468 ",0,
+Tennessee,2022,202202,"Store and forward",All," 63 ",0,
+Tennessee,2022,202203,"Live audio/video",All," 90,295 ",49.1,
+Tennessee,2022,202203,"Other telehealth",All," 123 ",0,
+Tennessee,2022,202203,"Remote patient monitoring",All," 714 ",0,
+Tennessee,2022,202203,"Store and forward",All," 33 ",0,
+Tennessee,2022,202204,"Live audio/video",All," 78,323 ",42.5,
+Tennessee,2022,202204,"Other telehealth",All," 96 ",0,
+Tennessee,2022,202204,"Remote patient monitoring",All," 618 ",0,
+Tennessee,2022,202204,"Store and forward",All," 42 ",0,
+Tennessee,2022,202205,"Live audio/video",All," 76,454 ",41.3,
+Tennessee,2022,202205,"Other telehealth",All," 104 ",0,
+Tennessee,2022,202205,"Remote patient monitoring",All," 817 ",0,
+Tennessee,2022,202205,"Store and forward",All," 51 ",0,
+Tennessee,2022,202206,"Live audio/video",All," 78,567 ",42.3,
+Tennessee,2022,202206,"Other telehealth",All," 104 ",0,
+Tennessee,2022,202206,"Remote patient monitoring",All," 822 ",0,
+Tennessee,2022,202206,"Store and forward",All," 42 ",0,
+Tennessee,2022,202207,"Live audio/video",All," 72,337 ",38.8,
+Tennessee,2022,202207,"Other telehealth",All," 100 ",0,
+Tennessee,2022,202207,"Remote patient monitoring",All," 918 ",0.5,
+Tennessee,2022,202207,"Store and forward",All," 33 ",0,
+Tennessee,2022,202208,"Live audio/video",All," 79,995 ",42.7,
+Tennessee,2022,202208,"Other telehealth",All," 121 ",0,
+Tennessee,2022,202208,"Remote patient monitoring",All," 960 ",0.5,
+Tennessee,2022,202208,"Store and forward",All," 37 ",0,
+Tennessee,2022,202209,"Live audio/video",All," 72,519 ",38.5,
+Tennessee,2022,202209,"Other telehealth",All," 111 ",0,
+Tennessee,2022,202209,"Remote patient monitoring",All," 906 ",0.5,
+Tennessee,2022,202209,"Store and forward",All," 23 ",0,
+Tennessee,2022,202210,"Live audio/video",All," 70,996 ",37.6,
+Tennessee,2022,202210,"Other telehealth",All," 120 ",0,
+Tennessee,2022,202210,"Remote patient monitoring",All," 913 ",0.5,
+Tennessee,2022,202210,"Store and forward",All," 53 ",0,
+Tennessee,2022,202211,"Live audio/video",All," 72,005 ",37.9,
+Tennessee,2022,202211,"Other telehealth",All," 123 ",0,
+Tennessee,2022,202211,"Remote patient monitoring",All," 829 ",0,
+Tennessee,2022,202211,"Store and forward",All," 50 ",0,
+Tennessee,2022,202212,"Live audio/video",All," 70,644 ",37.1,
+Tennessee,2022,202212,"Other telehealth",All," 127 ",0,
+Tennessee,2022,202212,"Remote patient monitoring",All," 913 ",0.5,
+Tennessee,2022,202212,"Store and forward",All," 45 ",0,
