@@ -1,0 +1,16 @@
+,Year,quarter,Bene_Geo_Desc,Bene_Mdcd_Mdcr_Enrl_Stus,Bene_Race_Desc,Bene_Sex_Desc,Bene_Mdcr_Entlmt_Stus,Bene_Age_Desc,Bene_RUCA_Desc,nunique_eligible_for_telehealth,total_enrollees_Part_B,nunique_users_of_telehealth,pct_actual_users_out_of_eligible_users,year-quarter
+1204,2020,1,National,All,All,All,All,All,All,23992421.0,32182236.667,1665085.0,6.94,2020-1
+1324,2020,2,National,All,All,All,All,All,All,21985383.0,32152841.0,10262248.0,46.68,2020-2
+1444,2020,3,National,All,All,All,All,All,All,24025610.0,32300268.667,6762255.0,28.15,2020-3
+1564,2020,4,National,All,All,All,All,All,All,23859981.0,32344227.667,6633025.0,27.8,2020-4
+7224,2021,1,National,All,All,All,All,All,All,22893082.0,30862859.0,6163853.0,26.92,2021-1
+7344,2021,2,National,All,All,All,All,All,All,23389566.0,30757385.333,4298714.0,18.38,2021-2
+7464,2021,3,National,All,All,All,All,All,All,23602154.0,30873701.0,3822635.0,16.2,2021-3
+7584,2021,4,National,All,All,All,All,All,All,23539469.0,30873374.333,3716289.0,15.79,2021-4
+13244,2022,1,National,All,All,All,All,All,All,22462104.0,29651239.667,4222546.0,18.8,2022-1
+13364,2022,2,National,All,All,All,All,All,All,22811030.0,29568735.667,3453893.0,15.14,2022-2
+13484,2022,3,National,All,All,All,All,All,All,22779905.0,29689929.667,3401289.0,14.93,2022-3
+13604,2022,4,National,All,All,All,All,All,All,22792204.0,29712164.0,3374471.0,14.81,2022-4
+18060,2023,1,National,All,All,All,All,All,All,21942281.0,28617502.0,3243217.0,14.78,2023-1
+18180,2023,2,National,All,All,All,All,All,All,22133080.0,28565974.667,2841239.0,12.84,2023-2
+18300,2023,3,National,All,All,All,All,All,All,21873142.0,28514350.667,2732655.0,12.49,2023-3
