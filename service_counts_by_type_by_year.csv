@@ -1,0 +1,21 @@
+,TelehealthType,Year,sum
+0,Live audio/video,2018,2542113.0
+1,Live audio/video,2019,3729677.0
+2,Live audio/video,2020,101439571.0
+3,Live audio/video,2021,104310821.0
+4,Live audio/video,2022,80320959.0
+8,Other telehealth,2021,356122.0
+7,Other telehealth,2020,750035.0
+9,Other telehealth,2022,281331.0
+5,Other telehealth,2018,9750.0
+6,Other telehealth,2019,17300.0
+10,Remote patient monitoring,2018,7758.0
+11,Remote patient monitoring,2019,38308.0
+12,Remote patient monitoring,2020,129134.0
+13,Remote patient monitoring,2021,319290.0
+14,Remote patient monitoring,2022,488918.0
+18,Store and forward,2021,448238.0
+15,Store and forward,2018,27124.0
+16,Store and forward,2019,39570.0
+17,Store and forward,2020,470634.0
+19,Store and forward,2022,1184358.0

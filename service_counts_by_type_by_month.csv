@@ -1,0 +1,241 @@
+,TelehealthType,Year,Month,sum
+0,Live audio/video,2018,201801,185854.0
+32,Live audio/video,2020,202009,10014495.0
+33,Live audio/video,2020,202010,10160603.0
+34,Live audio/video,2020,202011,9790973.0
+35,Live audio/video,2020,202012,11316155.0
+36,Live audio/video,2021,202101,11207873.0
+37,Live audio/video,2021,202102,10558254.0
+38,Live audio/video,2021,202103,11260031.0
+39,Live audio/video,2021,202104,9926321.0
+40,Live audio/video,2021,202105,8778872.0
+41,Live audio/video,2021,202106,8267664.0
+42,Live audio/video,2021,202107,7139873.0
+43,Live audio/video,2021,202108,7675166.0
+45,Live audio/video,2021,202110,7300385.0
+46,Live audio/video,2021,202111,7207904.0
+47,Live audio/video,2021,202112,7293717.0
+48,Live audio/video,2022,202201,9018429.0
+49,Live audio/video,2022,202202,7524710.0
+50,Live audio/video,2022,202203,7874566.0
+51,Live audio/video,2022,202204,6645583.0
+52,Live audio/video,2022,202205,6666605.0
+53,Live audio/video,2022,202206,6533131.0
+54,Live audio/video,2022,202207,5748637.0
+55,Live audio/video,2022,202208,6496724.0
+56,Live audio/video,2022,202209,5983015.0
+57,Live audio/video,2022,202210,5936608.0
+58,Live audio/video,2022,202211,6035719.0
+59,Live audio/video,2022,202212,5857232.0
+31,Live audio/video,2020,202008,9619823.0
+30,Live audio/video,2020,202007,10217345.0
+44,Live audio/video,2021,202109,7694761.0
+28,Live audio/video,2020,202005,11843625.0
+29,Live audio/video,2020,202006,10742135.0
+2,Live audio/video,2018,201803,186421.0
+3,Live audio/video,2018,201804,190138.0
+4,Live audio/video,2018,201805,212241.0
+5,Live audio/video,2018,201806,189210.0
+6,Live audio/video,2018,201807,200841.0
+7,Live audio/video,2018,201808,242315.0
+8,Live audio/video,2018,201809,217150.0
+9,Live audio/video,2018,201810,264482.0
+10,Live audio/video,2018,201811,245768.0
+11,Live audio/video,2018,201812,233430.0
+12,Live audio/video,2019,201901,291187.0
+13,Live audio/video,2019,201902,272265.0
+14,Live audio/video,2019,201903,294401.0
+1,Live audio/video,2018,201802,174263.0
+24,Live audio/video,2020,202001,402647.0
+16,Live audio/video,2019,201905,316120.0
+17,Live audio/video,2019,201906,275253.0
+18,Live audio/video,2019,201907,306777.0
+19,Live audio/video,2019,201908,324209.0
+20,Live audio/video,2019,201909,311806.0
+21,Live audio/video,2019,201910,368140.0
+22,Live audio/video,2019,201911,324637.0
+23,Live audio/video,2019,201912,327146.0
+15,Live audio/video,2019,201904,317736.0
+25,Live audio/video,2020,202002,404805.0
+26,Live audio/video,2020,202003,3725649.0
+27,Live audio/video,2020,202004,13201316.0
+99,Other telehealth,2021,202104,24805.0
+100,Other telehealth,2021,202105,22109.0
+91,Other telehealth,2020,202008,54679.0
+102,Other telehealth,2021,202107,18912.0
+101,Other telehealth,2021,202106,22052.0
+98,Other telehealth,2021,202103,27517.0
+92,Other telehealth,2020,202009,55774.0
+96,Other telehealth,2021,202101,59662.0
+95,Other telehealth,2020,202012,55634.0
+94,Other telehealth,2020,202011,48767.0
+93,Other telehealth,2020,202010,59494.0
+103,Other telehealth,2021,202108,23514.0
+97,Other telehealth,2021,202102,66737.0
+104,Other telehealth,2021,202109,23720.0
+111,Other telehealth,2022,202204,19902.0
+106,Other telehealth,2021,202111,21367.0
+107,Other telehealth,2021,202112,23946.0
+108,Other telehealth,2022,202201,33529.0
+109,Other telehealth,2022,202202,20779.0
+110,Other telehealth,2022,202203,21887.0
+112,Other telehealth,2022,202205,20942.0
+113,Other telehealth,2022,202206,21810.0
+114,Other telehealth,2022,202207,20200.0
+115,Other telehealth,2022,202208,22292.0
+116,Other telehealth,2022,202209,20455.0
+117,Other telehealth,2022,202210,24773.0
+118,Other telehealth,2022,202211,26951.0
+105,Other telehealth,2021,202110,21781.0
+90,Other telehealth,2020,202007,61780.0
+119,Other telehealth,2022,202212,27811.0
+88,Other telehealth,2020,202005,87041.0
+60,Other telehealth,2018,201801,673.0
+61,Other telehealth,2018,201802,685.0
+62,Other telehealth,2018,201803,671.0
+63,Other telehealth,2018,201804,803.0
+64,Other telehealth,2018,201805,958.0
+65,Other telehealth,2018,201806,735.0
+66,Other telehealth,2018,201807,769.0
+89,Other telehealth,2020,202006,66615.0
+68,Other telehealth,2018,201809,862.0
+69,Other telehealth,2018,201810,865.0
+70,Other telehealth,2018,201811,961.0
+71,Other telehealth,2018,201812,881.0
+72,Other telehealth,2019,201901,1354.0
+73,Other telehealth,2019,201902,1232.0
+67,Other telehealth,2018,201808,887.0
+75,Other telehealth,2019,201904,1396.0
+74,Other telehealth,2019,201903,1415.0
+87,Other telehealth,2020,202004,152821.0
+86,Other telehealth,2020,202003,79993.0
+85,Other telehealth,2020,202002,14286.0
+83,Other telehealth,2019,201912,1533.0
+82,Other telehealth,2019,201911,1517.0
+84,Other telehealth,2020,202001,13151.0
+80,Other telehealth,2019,201909,1448.0
+79,Other telehealth,2019,201908,1572.0
+78,Other telehealth,2019,201907,1357.0
+77,Other telehealth,2019,201906,1317.0
+76,Other telehealth,2019,201905,1449.0
+81,Other telehealth,2019,201910,1710.0
+160,Remote patient monitoring,2021,202105,26119.0
+163,Remote patient monitoring,2021,202108,28509.0
+162,Remote patient monitoring,2021,202107,26669.0
+161,Remote patient monitoring,2021,202106,26022.0
+159,Remote patient monitoring,2021,202104,24040.0
+152,Remote patient monitoring,2020,202009,12740.0
+157,Remote patient monitoring,2021,202102,16060.0
+156,Remote patient monitoring,2021,202101,17958.0
+155,Remote patient monitoring,2020,202012,17573.0
+154,Remote patient monitoring,2020,202011,16291.0
+153,Remote patient monitoring,2020,202010,15508.0
+158,Remote patient monitoring,2021,202103,22764.0
+165,Remote patient monitoring,2021,202110,32898.0
+179,Remote patient monitoring,2022,202212,46358.0
+167,Remote patient monitoring,2021,202112,33882.0
+168,Remote patient monitoring,2022,202201,33392.0
+169,Remote patient monitoring,2022,202202,29499.0
+170,Remote patient monitoring,2022,202203,38641.0
+171,Remote patient monitoring,2022,202204,37283.0
+172,Remote patient monitoring,2022,202205,39925.0
+173,Remote patient monitoring,2022,202206,39509.0
+174,Remote patient monitoring,2022,202207,42489.0
+175,Remote patient monitoring,2022,202208,44249.0
+176,Remote patient monitoring,2022,202209,45137.0
+177,Remote patient monitoring,2022,202210,45758.0
+178,Remote patient monitoring,2022,202211,46678.0
+151,Remote patient monitoring,2020,202008,11813.0
+166,Remote patient monitoring,2021,202111,33058.0
+150,Remote patient monitoring,2020,202007,10708.0
+164,Remote patient monitoring,2021,202109,31311.0
+148,Remote patient monitoring,2020,202005,9069.0
+120,Remote patient monitoring,2018,201801,499.0
+121,Remote patient monitoring,2018,201802,414.0
+122,Remote patient monitoring,2018,201803,533.0
+123,Remote patient monitoring,2018,201804,478.0
+124,Remote patient monitoring,2018,201805,642.0
+125,Remote patient monitoring,2018,201806,649.0
+126,Remote patient monitoring,2018,201807,589.0
+149,Remote patient monitoring,2020,202006,10074.0
+128,Remote patient monitoring,2018,201809,624.0
+129,Remote patient monitoring,2018,201810,848.0
+130,Remote patient monitoring,2018,201811,726.0
+131,Remote patient monitoring,2018,201812,1141.0
+132,Remote patient monitoring,2019,201901,2019.0
+133,Remote patient monitoring,2019,201902,2262.0
+127,Remote patient monitoring,2018,201808,615.0
+135,Remote patient monitoring,2019,201904,2023.0
+134,Remote patient monitoring,2019,201903,2191.0
+147,Remote patient monitoring,2020,202004,8110.0
+146,Remote patient monitoring,2020,202003,6437.0
+145,Remote patient monitoring,2020,202002,5355.0
+143,Remote patient monitoring,2019,201912,5094.0
+142,Remote patient monitoring,2019,201911,4299.0
+144,Remote patient monitoring,2020,202001,5456.0
+140,Remote patient monitoring,2019,201909,3790.0
+139,Remote patient monitoring,2019,201908,3604.0
+138,Remote patient monitoring,2019,201907,3088.0
+137,Remote patient monitoring,2019,201906,3039.0
+136,Remote patient monitoring,2019,201905,2619.0
+141,Remote patient monitoring,2019,201910,4280.0
+219,Store and forward,2021,202104,40487.0
+222,Store and forward,2021,202107,29081.0
+221,Store and forward,2021,202106,33660.0
+220,Store and forward,2021,202105,35762.0
+218,Store and forward,2021,202103,48986.0
+211,Store and forward,2020,202008,42828.0
+216,Store and forward,2021,202101,54848.0
+215,Store and forward,2020,202012,53670.0
+214,Store and forward,2020,202011,44457.0
+213,Store and forward,2020,202010,46823.0
+212,Store and forward,2020,202009,45735.0
+217,Store and forward,2021,202102,50625.0
+223,Store and forward,2021,202108,32120.0
+237,Store and forward,2022,202210,103140.0
+225,Store and forward,2021,202110,30125.0
+226,Store and forward,2021,202111,29252.0
+227,Store and forward,2021,202112,29329.0
+228,Store and forward,2022,202201,90724.0
+229,Store and forward,2022,202202,85657.0
+230,Store and forward,2022,202203,100758.0
+231,Store and forward,2022,202204,97172.0
+232,Store and forward,2022,202205,101443.0
+233,Store and forward,2022,202206,104367.0
+234,Store and forward,2022,202207,94792.0
+235,Store and forward,2022,202208,109281.0
+236,Store and forward,2022,202209,102645.0
+210,Store and forward,2020,202007,45474.0
+224,Store and forward,2021,202109,33963.0
+209,Store and forward,2020,202006,47205.0
+194,Store and forward,2019,201903,2086.0
+207,Store and forward,2020,202004,60841.0
+238,Store and forward,2022,202211,99003.0
+180,Store and forward,2018,201801,1875.0
+181,Store and forward,2018,201802,1916.0
+182,Store and forward,2018,201803,2109.0
+183,Store and forward,2018,201804,2208.0
+184,Store and forward,2018,201805,2227.0
+185,Store and forward,2018,201806,2326.0
+186,Store and forward,2018,201807,2385.0
+187,Store and forward,2018,201808,2342.0
+188,Store and forward,2018,201809,2252.0
+189,Store and forward,2018,201810,2702.0
+190,Store and forward,2018,201811,2256.0
+191,Store and forward,2018,201812,2526.0
+192,Store and forward,2019,201901,2105.0
+193,Store and forward,2019,201902,1880.0
+195,Store and forward,2019,201904,2222.0
+196,Store and forward,2019,201905,2252.0
+197,Store and forward,2019,201906,2379.0
+198,Store and forward,2019,201907,4720.0
+199,Store and forward,2019,201908,4907.0
+200,Store and forward,2019,201909,4252.0
+201,Store and forward,2019,201910,4579.0
+202,Store and forward,2019,201911,4026.0
+203,Store and forward,2019,201912,4162.0
+204,Store and forward,2020,202001,5064.0
+205,Store and forward,2020,202002,5182.0
+206,Store and forward,2020,202003,24308.0
+208,Store and forward,2020,202005,49047.0
+239,Store and forward,2022,202212,95376.0

@@ -1,0 +1,109 @@
+,Year,quarter,Bene_Geo_Desc,Bene_Mdcd_Mdcr_Enrl_Stus,Bene_Race_Desc,Bene_Sex_Desc,Bene_Mdcr_Entlmt_Stus,Bene_Age_Desc,Bene_RUCA_Desc,nunique_eligible_for_telehealth,total_enrollees_Part_B,nunique_users_of_telehealth,pct_actual_users_out_of_eligible_users,year-quarter
+838,2020,Overall,Tennessee,All,American Indian/Alaska Native,All,All,All,All,364.0,397.16666667,140.0,38.46,2020-Overall
+889,2020,Overall,Tennessee,All,Asian/Pacific Islander,All,All,All,All,4601.0,5257.8333333,1172.0,25.47,2020-Overall
+940,2020,Overall,Tennessee,All,Black/African American,All,All,All,All,66139.0,69093.25,21600.0,32.66,2020-Overall
+991,2020,Overall,Tennessee,All,Hispanic,All,All,All,All,6059.0,6883.0,1870.0,30.86,2020-Overall
+1042,2020,Overall,Tennessee,All,Non-Hispanic White,All,All,All,All,595424.0,606119.66667,183624.0,30.84,2020-Overall
+1093,2020,Overall,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2020-Overall
+2565,2020,1,Tennessee,All,American Indian/Alaska Native,All,All,All,All,293.0,398.33333333,12.0,4.1,2020-1
+2566,2020,1,Tennessee,All,Asian/Pacific Islander,All,All,All,All,3148.0,5164.3333333,72.0,2.29,2020-1
+2567,2020,1,Tennessee,All,Black/African American,All,All,All,All,50981.0,69434.666667,1886.0,3.7,2020-1
+2568,2020,1,Tennessee,All,Hispanic,All,All,All,All,4431.0,6780.3333333,149.0,3.36,2020-1
+2569,2020,1,Tennessee,All,Non-Hispanic White,All,All,All,All,470400.0,605566.0,17416.0,3.7,2020-1
+2570,2020,1,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2020-1
+3589,2020,2,Tennessee,All,American Indian/Alaska Native,All,All,All,All,278.0,397.66666667,94.0,33.81,2020-2
+3590,2020,2,Tennessee,All,Asian/Pacific Islander,All,All,All,All,2810.0,5203.0,741.0,26.37,2020-2
+3591,2020,2,Tennessee,All,Black/African American,All,All,All,All,47610.0,69096.333333,14360.0,30.16,2020-2
+3592,2020,2,Tennessee,All,Hispanic,All,All,All,All,4088.0,6813.6666667,1240.0,30.33,2020-2
+3593,2020,2,Tennessee,All,Non-Hispanic White,All,All,All,All,441563.0,605250.0,122304.0,27.7,2020-2
+3594,2020,2,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2020-2
+4613,2020,3,Tennessee,All,American Indian/Alaska Native,All,All,All,All,277.0,395.33333333,55.0,19.86,2020-3
+4614,2020,3,Tennessee,All,Asian/Pacific Islander,All,All,All,All,3313.0,5316.0,522.0,15.76,2020-3
+4615,2020,3,Tennessee,All,Black/African American,All,All,All,All,50227.0,69129.333333,9273.0,18.46,2020-3
+4616,2020,3,Tennessee,All,Hispanic,All,All,All,All,4435.0,6948.6666667,741.0,16.71,2020-3
+4617,2020,3,Tennessee,All,Non-Hispanic White,All,All,All,All,472513.0,606851.66667,69570.0,14.72,2020-3
+4618,2020,3,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2020-3
+5637,2020,4,Tennessee,All,American Indian/Alaska Native,All,All,All,All,288.0,397.33333333,58.0,20.14,2020-4
+5638,2020,4,Tennessee,All,Asian/Pacific Islander,All,All,All,All,3277.0,5348.0,445.0,13.58,2020-4
+5639,2020,4,Tennessee,All,Black/African American,All,All,All,All,49463.0,68712.666667,8354.0,16.89,2020-4
+5640,2020,4,Tennessee,All,Hispanic,All,All,All,All,4439.0,6989.3333333,779.0,17.55,2020-4
+5641,2020,4,Tennessee,All,Non-Hispanic White,All,All,All,All,466774.0,606811.0,72157.0,15.46,2020-4
+5642,2020,4,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2020-4
+6858,2021,Overall,Tennessee,All,American Indian/Alaska Native,All,All,All,All,335.0,367.25,88.0,26.27,2021-Overall
+6909,2021,Overall,Tennessee,All,Asian/Pacific Islander,All,All,All,All,4789.0,5265.6666667,862.0,18.0,2021-Overall
+6960,2021,Overall,Tennessee,All,Black/African American,All,All,All,All,60499.0,62554.333333,14082.0,23.28,2021-Overall
+7011,2021,Overall,Tennessee,All,Hispanic,All,All,All,All,6083.0,6831.0833333,1384.0,22.75,2021-Overall
+7062,2021,Overall,Tennessee,All,Non-Hispanic White,All,All,All,All,576430.0,581784.41667,119740.0,20.77,2021-Overall
+7113,2021,Overall,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2021-Overall
+8585,2021,1,Tennessee,All,American Indian/Alaska Native,All,All,All,All,258.0,372.66666667,47.0,18.22,2021-1
+8586,2021,1,Tennessee,All,Asian/Pacific Islander,All,All,All,All,3199.0,5153.3333333,488.0,15.25,2021-1
+8587,2021,1,Tennessee,All,Black/African American,All,All,All,All,45726.0,63081.666667,8138.0,17.8,2021-1
+8588,2021,1,Tennessee,All,Hispanic,All,All,All,All,4275.0,6752.6666667,786.0,18.39,2021-1
+8589,2021,1,Tennessee,All,Non-Hispanic White,All,All,All,All,448279.0,582498.66667,67351.0,15.02,2021-1
+8590,2021,1,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2021-1
+9609,2021,2,Tennessee,All,American Indian/Alaska Native,All,All,All,All,267.0,372.33333333,35.0,13.11,2021-2
+9610,2021,2,Tennessee,All,Asian/Pacific Islander,All,All,All,All,3416.0,5211.6666667,305.0,8.93,2021-2
+9611,2021,2,Tennessee,All,Black/African American,All,All,All,All,46051.0,62503.0,5385.0,11.69,2021-2
+9612,2021,2,Tennessee,All,Hispanic,All,All,All,All,4400.0,6781.0,516.0,11.73,2021-2
+9613,2021,2,Tennessee,All,Non-Hispanic White,All,All,All,All,458268.0,580792.0,42037.0,9.17,2021-2
+9614,2021,2,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2021-2
+10633,2021,3,Tennessee,All,American Indian/Alaska Native,All,All,All,All,266.0,366.0,32.0,12.03,2021-3
+10634,2021,3,Tennessee,All,Asian/Pacific Islander,All,All,All,All,3496.0,5321.3333333,284.0,8.12,2021-3
+10635,2021,3,Tennessee,All,Black/African American,All,All,All,All,45859.0,62424.666667,4954.0,10.8,2021-3
+10636,2021,3,Tennessee,All,Hispanic,All,All,All,All,4499.0,6884.3333333,511.0,11.36,2021-3
+10637,2021,3,Tennessee,All,Non-Hispanic White,All,All,All,All,463706.0,582065.0,41614.0,8.97,2021-3
+10638,2021,3,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2021-3
+11657,2021,4,Tennessee,All,American Indian/Alaska Native,All,All,All,All,260.0,358.0,39.0,15.0,2021-4
+11658,2021,4,Tennessee,All,Asian/Pacific Islander,All,All,All,All,3492.0,5376.3333333,283.0,8.1,2021-4
+11659,2021,4,Tennessee,All,Black/African American,All,All,All,All,45125.0,62208.0,4490.0,9.95,2021-4
+11660,2021,4,Tennessee,All,Hispanic,All,All,All,All,4391.0,6906.3333333,446.0,10.16,2021-4
+11661,2021,4,Tennessee,All,Non-Hispanic White,All,All,All,All,460711.0,581782.0,39226.0,8.51,2021-4
+11662,2021,4,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2021-4
+12878,2022,Overall,Tennessee,All,American Indian/Alaska Native,All,All,All,All,309.0,331.25,74.0,23.95,2022-Overall
+12929,2022,Overall,Tennessee,All,Asian/Pacific Islander,All,All,All,All,4826.0,5322.75,734.0,15.21,2022-Overall
+12980,2022,Overall,Tennessee,All,Black/African American,All,All,All,All,54569.0,56094.083333,10356.0,18.98,2022-Overall
+13031,2022,Overall,Tennessee,All,Hispanic,All,All,All,All,5995.0,6719.75,1082.0,18.05,2022-Overall
+13082,2022,Overall,Tennessee,All,Non-Hispanic White,All,All,All,All,555733.0,559136.41667,97486.0,17.54,2022-Overall
+13133,2022,Overall,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2022-Overall
+14605,2022,1,Tennessee,All,American Indian/Alaska Native,All,All,All,All,247.0,341.33333333,42.0,17.0,2022-1
+14606,2022,1,Tennessee,All,Asian/Pacific Islander,All,All,All,All,3341.0,5252.3333333,331.0,9.91,2022-1
+14607,2022,1,Tennessee,All,Black/African American,All,All,All,All,41886.0,56892.666667,5141.0,12.27,2022-1
+14608,2022,1,Tennessee,All,Hispanic,All,All,All,All,4292.0,6654.6666667,535.0,12.47,2022-1
+14609,2022,1,Tennessee,All,Non-Hispanic White,All,All,All,All,442184.0,560719.33333,46131.0,10.43,2022-1
+14610,2022,1,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2022-1
+15629,2022,2,Tennessee,All,American Indian/Alaska Native,All,All,All,All,236.0,331.66666667,30.0,12.71,2022-2
+15630,2022,2,Tennessee,All,Asian/Pacific Islander,All,All,All,All,3445.0,5266.3333333,245.0,7.11,2022-2
+15631,2022,2,Tennessee,All,Black/African American,All,All,All,All,41445.0,55998.0,3770.0,9.1,2022-2
+15632,2022,2,Tennessee,All,Hispanic,All,All,All,All,4294.0,6645.3333333,379.0,8.83,2022-2
+15633,2022,2,Tennessee,All,Non-Hispanic White,All,All,All,All,445102.0,558242.33333,33453.0,7.52,2022-2
+15634,2022,2,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2022-2
+16653,2022,3,Tennessee,All,American Indian/Alaska Native,All,All,All,All,244.0,326.33333333,33.0,13.52,2022-3
+16654,2022,3,Tennessee,All,Asian/Pacific Islander,All,All,All,All,3528.0,5371.6666667,271.0,7.68,2022-3
+16655,2022,3,Tennessee,All,Black/African American,All,All,All,All,41358.0,55877.0,3630.0,8.78,2022-3
+16656,2022,3,Tennessee,All,Hispanic,All,All,All,All,4370.0,6771.6666667,388.0,8.88,2022-3
+16657,2022,3,Tennessee,All,Non-Hispanic White,All,All,All,All,447551.0,558947.0,34789.0,7.77,2022-3
+16658,2022,3,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2022-3
+17677,2022,4,Tennessee,All,American Indian/Alaska Native,All,All,All,All,240.0,325.66666667,24.0,10.0,2022-4
+17678,2022,4,Tennessee,All,Asian/Pacific Islander,All,All,All,All,3439.0,5400.6666667,237.0,6.89,2022-4
+17679,2022,4,Tennessee,All,Black/African American,All,All,All,All,40648.0,55608.666667,3339.0,8.21,2022-4
+17680,2022,4,Tennessee,All,Hispanic,All,All,All,All,4276.0,6807.3333333,370.0,8.65,2022-4
+17681,2022,4,Tennessee,All,Non-Hispanic White,All,All,All,All,445980.0,558637.0,33220.0,7.45,2022-4
+17682,2022,4,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2022-4
+19292,2023,1,Tennessee,All,American Indian/Alaska Native,All,All,All,All,221.0,309.66666667,33.0,14.93,2023-1
+19293,2023,1,Tennessee,All,Asian/Pacific Islander,All,All,All,All,3348.0,5252.3333333,264.0,7.89,2023-1
+19294,2023,1,Tennessee,All,Black/African American,All,All,All,All,37619.0,50776.0,3363.0,8.94,2023-1
+19295,2023,1,Tennessee,All,Hispanic,All,All,All,All,4264.0,6673.3333333,392.0,9.19,2023-1
+19296,2023,1,Tennessee,All,Non-Hispanic White,All,All,All,All,429923.0,537949.0,33224.0,7.73,2023-1
+19297,2023,1,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2023-1
+20316,2023,2,Tennessee,All,American Indian/Alaska Native,All,All,All,All,224.0,301.66666667,19.0,8.48,2023-2
+20317,2023,2,Tennessee,All,Asian/Pacific Islander,All,All,All,All,3420.0,5280.3333333,204.0,5.96,2023-2
+20318,2023,2,Tennessee,All,Black/African American,All,All,All,All,36958.0,50084.0,2961.0,8.01,2023-2
+20319,2023,2,Tennessee,All,Hispanic,All,All,All,All,4297.0,6711.0,351.0,8.17,2023-2
+20320,2023,2,Tennessee,All,Non-Hispanic White,All,All,All,All,429936.0,536716.0,28432.0,6.61,2023-2
+20321,2023,2,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2023-2
+21340,2023,3,Tennessee,All,American Indian/Alaska Native,All,All,All,All,212.0,291.66666667,18.0,8.49,2023-3
+21341,2023,3,Tennessee,All,Asian/Pacific Islander,All,All,All,All,3440.0,5269.0,179.0,5.2,2023-3
+21342,2023,3,Tennessee,All,Black/African American,All,All,All,All,36199.0,49329.666667,2873.0,7.94,2023-3
+21343,2023,3,Tennessee,All,Hispanic,All,All,All,All,4321.0,6691.3333333,377.0,8.72,2023-3
+21344,2023,3,Tennessee,All,Non-Hispanic White,All,All,All,All,428632.0,535153.66667,27718.0,6.47,2023-3
+21345,2023,3,Tennessee,All,Other/Unknown,All,All,All,All,,,,,2023-3
