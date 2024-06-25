@@ -1,15 +1,19 @@
 # Tennessee Telehealth Analysis
-# Part I: Data Question & Sources
+
+
+
+## Table of Contents
+### Part I: Data Question & Sources
 1. Data Question
 2. Data Sources 
 
-# Part II: Data Import & Cleaning
+### Part II: Data Import & Cleaning
 1. Medicare Data
 2. Medicaid & CHIP Data
 3. TN County Health Rankings & Roadmaps
 
 
-# Part III: Data Exploration & Visualizations
+### Part III: Data Exploration & Visualizations
 1. Initial Data Exploration
     A. Basic Aggregation Stats
     B. Creating Scalable Filter Functions
@@ -28,6 +32,6 @@
         - Correlograms
         - Scatter Plots
 
-# Part IV: Insights
+### Part IV: Insights
 
-# Part V: References & Further Research
+### Part V: References & Further Research
