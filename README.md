@@ -1,8 +1,18 @@
-# Tennessee Telehealth Analysis
+# Title: Tennessee Telehealth Analysis
 
+## Project Description
+I developed this notebook and presentation as part of my Capstone project for the Nashville Software School's Part-Time Data Analysis Bootcamp (Cohort DA11, Jan-Jun 2024). This project focuses on using data exploration and analysis to address the question: **``How can telehealth best be used to target health challenges in TN?``**
 
+## Presentation
+The presentation can be found in the files. There are speaker notes available as well. 
 
-## Table of Contents
+## Usage Examples
+The project is tailored towards TN data but can easily be adapted to analyze the data for any state. Simply change all references to Tennessee in the code to the desired state (or national) designation. 
+
+## Liscence Information
+It is fine to use this code or any data herein for any purpose, as long as you credit the sources.  
+
+## Notebook Table of Contents
 ### Part I: Data Question & Sources
 1. Data Question
 2. Data Sources 
