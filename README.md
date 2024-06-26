@@ -88,11 +88,11 @@ I could have also merged the two worksheets on the FIPS column, and dropped all 
 
 ## Part III: Data Exploration & Visualizations
 
-### Basic Aggregation Stats
+### 1. Basic Aggregation Stats
 General first look at min, max, mean, and other common aggregates as applied to the medicare and medicaid data sets. 
 
-### Creating Scalable Filter Functions
-The medicare data set had a large number of variables. It was easier to manage if approached via filter. I created a custom filter function called quickfilter(), designed to filter any dataframe by specific value(s) in a column. It takes three argumnets: the name of the dataframe, the column to filter on (I defined all these as variables so I can just reference a shorter name), and the value or values to filter on. In this case I created a variable called "value" so I can change it easier. 
+### 2. Creating a Scalable Filter Function
+The medicare data set had a large number of variables. It was easier to manage if approached via filter. I created a custom filter function called quickfilter(), designed to filter any dataframe by specific value(s) in a column. It takes three arguments: the name of the dataframe, the column to filter on (I defined all these as variables so I can just reference a shorter name), and the value or values to filter on. In this case I created a variable called "value" so I can change it easier. 
 
 The result is a format that looks like this: 
 
@@ -100,7 +100,7 @@ The result is a format that looks like this:
 
 ``filtered_data = quick_filter(medicare_trends_df,state,value)``
 
-**Use case for this is changing the state:** 
+** Best use case for this is to change the state:** 
 If you want to filter by a specific state, change the "value" variable to the state you want, then run the quickfilter function. Once filtered, copy/paste as needed into the visualizations
 
 notes: 
@@ -109,12 +109,12 @@ notes:
  - you can define multiple variables as the "value" (for example, Tennessee, Alabama, Georgia would include data from all three states). This could be helpful for regional analysis. 
 
 
-### Year over Year National Telehealth Trends (Medicare and Medicaid)
+### 3. Year over Year National Telehealth Trends (Medicare and Medicaid)
 Includes two national trend charts: 
 1. Medicare Telehealth Usage Year over Year - Quick visualization of overall telehealth trends across the data set (National) from 2020-2023
 2. Medicaid Service Type Usage Year over Year - Looking at number of users by telehealth type between 2018-2022
 
-### TN Medicare Demographic Trends in Telehealth Usage
+### 4. TN Medicare Demographic Trends in Telehealth Usage
 Medicare telehealth usage trends are broken down by:
 - Race
 - Age
@@ -127,7 +127,7 @@ In the final presentation there are three charts for each demographic category a
 2. Bar chart showing AVERAGE percentage for each demographic that used available telehealth services
 3. Violin chart showing the DISTRIBUTION of the percentages for each demographic that used available telehealth services
 
-### TN Mental Health Trends (CHRR Data)
+### 5. TN Mental Health Trends (CHRR Data)
 The County Health Rankings & Roadmaps (CHRR) is a national, publicly free data set that keeps track of a large variety of health factors and outcomes broken down by county in every state. I looked at 2023 TN data only. My analysis method included the creation of a correlation matrix, from which I then extracted statistically significant correlations, which I defined as either positive or negative 0.6 or higher. I then used Excel conditional formatting to highlight the significant variables and analyzed their relationships in a pivot table before charting them in python. I also included in the notebook an outline of the correlated variables. I then experimented with correlograms to give a quick view of which data sticks out among related variables. Based on these I chose a few variables to create individual scatter plots for the presentation. 
 
 I ended up focusing on: 
