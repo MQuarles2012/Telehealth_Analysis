@@ -1,7 +1,7 @@
 # Tennessee Telehealth Analysis
 
 ## Project Description
-I developed this notebook and presentation as part of my Capstone project for the Nashville Software School's Part-Time Data Analysis Bootcamp (Cohort DA11, Jan-Jun 2024). The presentation of the analysis can be found in the files. There are speaker notes available as well. 
+I developed this notebook and presentation as part of my Capstone project for the Nashville Software School's Part-Time Data Analysis Bootcamp (Cohort DA11, Jan-Jun 2024). The presentation of the analysis can be found in the files. 
 
 ## Adapting this Project
 The project is tailored towards TN data but can easily be adapted to analyze the data for any state. Simply change all references to Tennessee in the code to the desired state (or national) designation. 
