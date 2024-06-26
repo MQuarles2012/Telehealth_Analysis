@@ -1,10 +1,10 @@
 # Tennessee Telehealth Analysis
 
 ## Project Description
-I developed this notebook and presentation as part of my Capstone project for the Nashville Software School's Part-Time Data Analysis Bootcamp (Cohort DA11, Jan-Jun 2024). The presentation of the analysis can be found in the files. There are speaker notes available as well. 
+I developed this notebook and presentation as part of my Capstone project for the Nashville Software School's Part-Time Data Analysis Bootcamp (Cohort DA11, Jan-Jun 2024). The presentation of the analysis can be found in the files. 
 
 ## Adapting this Project
-The project is tailored towards TN data but can easily be adapted to analyze the data for any state. Simply change all references to Tennessee in the code to the desired state (or national) designation. 
+The project is tailored towards TN data but can easily be adapted to analyze the data for any state. Simply use the filter function I created in Part III to filter by a different state. 
 
 ## Liscence Information
 It is fine to use this code or any data herein for any purpose, as long as you credit the sources.  
@@ -26,10 +26,11 @@ It is fine to use this code or any data herein for any purpose, as long as you c
 4. TN Medicare Demographic Trends in Telehealth Usage
 5. TN Mental Health Trends (CHRR Data)
 
-#### Part IV: Insights
+#### Part IV: Observations & Insights
+1. Observations
+2. Insights
 
-#### Part V: References & Further Research
-
+#### References & Further Research
 
 # Notebook Walkthrough:
 ## Part I: Data Questions & Sources
@@ -53,7 +54,7 @@ The data sources include two publiclly available datasets on telehealth trends a
 
 ##### 2. [Medicaid & Chip Telehealth Trends](https://data.medicaid.gov/dataset/651fa253-4dd4-4867-8725-2b5ae1dd5ce9?conditions[0][property]=state&conditions[0][value]=Tennessee&conditions[0][operator]=%3D&conditions[1][property]=dataquality&conditions[1][value]=DQ&conditions[1][operator]=%3C%3E#data-table) (medicaid_trends_df)
  - This data set includes monthly counts and rates (per 1,000 beneficiaries) of services provided via telehealth, including live audio video, remote patient monitoring, store and forward, and other telehealth, to Medicaid and CHIP beneficiaries, by state. Data was collected between January 2018 and December 2022.
- - Note: Some states have serious data quality issues for one or more months, making the data unusable for calculating telehealth services measures...Cells with a value of “DQ” (in the DataQuality column). indicate that data were suppressed due to unusable data. Additionally, some cells have a value of “DS”. This indicates that data were suppressed for confidentiality reasons because the group included fewer than 11 beneficiaries.
+ - Important Note: Some states have serious data quality issues for one or more months, making the data unusable for calculating telehealth services measures...Cells with a value of “DQ” (in the DataQuality column). indicate that data were suppressed due to unusable data. Additionally, some cells have a value of “DS”. This indicates that data were suppressed for confidentiality reasons because the group included fewer than 11 beneficiaries.
  - There is no data dictionary for this data set
 
 ##### 3. [County Health Rankings and Roadmaps - TN](https://www.countyhealthrankings.org/health-data/tennessee?year=2023&measure=Mental+Health+Providers) (CHRR_df)
@@ -63,7 +64,7 @@ The data sources include two publiclly available datasets on telehealth trends a
  - [Data Dictionary](https://docs.google.com/spreadsheets/d/18rWeCagA0EANH2OibUtBEG1RMDMgdEL4drCRTT9ekWg/edit?gid=1203469383#gid=1203469383)
 
 ## Part II: Data Import & Cleaning
-Either get the files from the original source (see links) or use the files in the capstone-data folder on this repository. Then, read in the data for each source. I made the following alterations to each data set: 
+Either get the files from the original source (see links above) or use the files in the capstone-data folder on this repository. Then, read in the data for each source. I made the following alterations to each data set: 
 
 ### 1. Medicare Data
 I renamed some of the columns for easier reference, but this is not required. I also multiplied and rounded the Pct_Telehealth column for easier readibility. Finally, I added a new column called "year-quarter" that combined year and quarter, for user in a later visualization. 
@@ -87,11 +88,11 @@ I could have also merged the two worksheets on the FIPS column, and dropped all 
 
 ## Part III: Data Exploration & Visualizations
 
-### Basic Aggregation Stats
+### 1. Basic Aggregation Stats
 General first look at min, max, mean, and other common aggregates as applied to the medicare and medicaid data sets. 
 
-### Creating Scalable Filter Functions
-The medicare data set had a large number of variables. It was easier to manage if approached via filter. I created a custom filter function called quickfilter(), designed to filter any dataframe by specific value(s) in a column. It takes three argumnets: the name of the dataframe, the column to filter on (I defined all these as variables so I can just reference a shorter name), and the value or values to filter on. In this case I created a variable called "value" so I can change it easier. 
+### 2. Creating a Scalable Filter Function
+The medicare data set had a large number of variables. It was easier to manage if approached via filter. I created a custom filter function called quickfilter(), designed to filter any dataframe by specific value(s) in a column. It takes three arguments: the name of the dataframe, the column to filter on (I defined all these as variables so I can just reference a shorter name), and the value or values to filter on. In this case I created a variable called "value" so I can change it easier. 
 
 The result is a format that looks like this: 
 
@@ -99,7 +100,7 @@ The result is a format that looks like this:
 
 ``filtered_data = quick_filter(medicare_trends_df,state,value)``
 
-**Use case for this is changing the state:** 
+**Best use case for this is to change the state:** 
 If you want to filter by a specific state, change the "value" variable to the state you want, then run the quickfilter function. Once filtered, copy/paste as needed into the visualizations
 
 notes: 
@@ -108,12 +109,12 @@ notes:
  - you can define multiple variables as the "value" (for example, Tennessee, Alabama, Georgia would include data from all three states). This could be helpful for regional analysis. 
 
 
-### Year over Year National Telehealth Trends (Medicare and Medicaid)
+### 3. Year over Year National Telehealth Trends (Medicare and Medicaid)
 Includes two national trend charts: 
 1. Medicare Telehealth Usage Year over Year - Quick visualization of overall telehealth trends across the data set (National) from 2020-2023
 2. Medicaid Service Type Usage Year over Year - Looking at number of users by telehealth type between 2018-2022
 
-### TN Medicare Demographic Trends in Telehealth Usage
+### 4. TN Medicare Demographic Trends in Telehealth Usage
 Medicare telehealth usage trends are broken down by:
 - Race
 - Age
@@ -126,11 +127,32 @@ In the final presentation there are three charts for each demographic category a
 2. Bar chart showing AVERAGE percentage for each demographic that used available telehealth services
 3. Violin chart showing the DISTRIBUTION of the percentages for each demographic that used available telehealth services
 
-### TN Mental Health Trends (CHRR Data)
+### 5. TN Mental Health Trends (CHRR Data)
+The County Health Rankings & Roadmaps (CHRR) is a national, publicly free data set that keeps track of a large variety of health factors and outcomes broken down by county in every state. I looked at 2023 TN data only. My analysis method included the creation of a correlation matrix, from which I then extracted statistically significant correlations, which I defined as either positive or negative 0.6 or higher. I then used Excel conditional formatting to highlight the significant variables and analyzed their relationships in a pivot table before charting them in python. I also included in the notebook an outline of the correlated variables. I then experimented with correlograms to give a quick view of which data sticks out among related variables. Based on these I chose a few variables to create individual scatter plots for the presentation. 
 
-## Part IV: Insights
+I ended up focusing on: 
+ - [Mental Health Provider Rate](https://www.countyhealthrankings.org/health-data/health-factors/clinical-care/access-to-care/mental-health-providers?year=2024) - Number of mental health providers per 100k population 
+ - [Average Number of Mentally Unhealthy Days](https://www.countyhealthrankings.org/health-data/health-outcomes/quality-of-life/poor-mental-health-days?year=2024)) - As reported in the past 30 days 
+ - [% Frequent Mental Distress](https://www.countyhealthrankings.org/health-data/health-outcomes/quality-of-life/frequent-mental-distress?year=2024) - Percentage of adults reporting 14 or more days of poor mental health per month
+ - [% Disconnected Youth](https://www.countyhealthrankings.org/health-data/health-factors/social-economic-factors/education/disconnected-youth?year=2024) - Percentage of young people between the ages of 16 and 24 who are not in school and not working
+ - [% Rural](https://www.countyhealthrankings.org/health-data/demographics/rural?year=2024) I cross referenced the other variables with this one spot any trends relevant to the rural lens of my analysis
+
+## Part IV: Observations & Insights
+### 1. Observations
+The notebook includes a detailed write-up of my observations for each data set and its visualizations. Much of this is reflected in the presentation and this portion is meant to be read alongside the charts and supplemental data included in the slides. 
+
+### 2. Insights
+Again, these are detailed in the notebook and presented in the slides. The general information is outlined below: 
+
+#### 1. Targeting Mental Telehealth Initiatives
+ - Telehealth initiatives in TN should be targeted towards engaging rural youth with mental health resources.
+ - Minorities should be a priority, especially black youths who have a higher rate of displacement from work and school compared to their peers.
+ - Telemedicine is not a replacement for in-person mental health treatment. Rather it is a good candidate for adding flexibility, continuity, and shoring up existing support-systems. 
+
+#### 2. Challenges (and Solutions)
+- Broadband Access: Broadband access is a well-known blocker to healthcare availability. A possible solution to this may be promoting methods of telehealth that do not require synchronous internet access. Specifically there is potential in using remote monitoring paired with store & forward methods of transmission to address lack of broadband access. 
+- State Medicare & Medicaid Policies: Unfortunately TN is one of the only states that does not reimburse Store and Forward or Remote Patient Monitoring for Medicaid or Medicare beneficiaries. Anyone looking to build out telehealth in TN should consider raising awareness of this issue to policy makers and legislators.
+- Technical Literacy: On this topic we should emphasize not only patient literacy, but also providers. Telehealth expansion programs could help providers improve their online presence and provide infrastructure for online portal scheduling. They could also help build out and promote mobile health apps for patients and providers to manage their health records and communications. 
+
 ## References & Further Research
-
-
-
-
+The end of the notebook includes some references and articles/resources for further research
