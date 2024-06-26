@@ -4,13 +4,10 @@
 I developed this notebook and presentation as part of my Capstone project for the Nashville Software School's Part-Time Data Analysis Bootcamp (Cohort DA11, Jan-Jun 2024). The presentation of the analysis can be found in the files. 
 
 ## Adapting this Project
-The project is tailored towards TN data but can easily be adapted to analyze the data for any state. Simply use the filter function I created in Part III to filter by a different state. 
-
-## Liscence Information
-It is fine to use this code or any data herein for any purpose, as long as you credit the sources.  
+The project is tailored towards TN data but can easily be adapted to analyze the data for any state. Simply use the filter function I created in Part III to filter by a different state.  
 
 ## Table of Contents
-#### Part I: Data Question & Sources
+#### Part I: Data Questions & Sources
 1. Data Question
 2. Data Sources 
 
