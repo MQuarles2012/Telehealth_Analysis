@@ -100,7 +100,7 @@ The result is a format that looks like this:
 
 ``filtered_data = quick_filter(medicare_trends_df,state,value)``
 
-** Best use case for this is to change the state:** 
+**Best use case for this is to change the state:** 
 If you want to filter by a specific state, change the "value" variable to the state you want, then run the quickfilter function. Once filtered, copy/paste as needed into the visualizations
 
 notes: 
