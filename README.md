@@ -26,7 +26,7 @@ It is fine to use this code or any data herein for any purpose, as long as you c
 4. TN Medicare Demographic Trends in Telehealth Usage
 5. TN Mental Health Trends (CHRR Data)
 
-#### Part IV: Insights
+#### Part IV: Observations & Insights
 1. Observations
 2. Insights
 
@@ -54,7 +54,7 @@ The data sources include two publiclly available datasets on telehealth trends a
 
 ##### 2. [Medicaid & Chip Telehealth Trends](https://data.medicaid.gov/dataset/651fa253-4dd4-4867-8725-2b5ae1dd5ce9?conditions[0][property]=state&conditions[0][value]=Tennessee&conditions[0][operator]=%3D&conditions[1][property]=dataquality&conditions[1][value]=DQ&conditions[1][operator]=%3C%3E#data-table) (medicaid_trends_df)
  - This data set includes monthly counts and rates (per 1,000 beneficiaries) of services provided via telehealth, including live audio video, remote patient monitoring, store and forward, and other telehealth, to Medicaid and CHIP beneficiaries, by state. Data was collected between January 2018 and December 2022.
- - Note: Some states have serious data quality issues for one or more months, making the data unusable for calculating telehealth services measures...Cells with a value of “DQ” (in the DataQuality column). indicate that data were suppressed due to unusable data. Additionally, some cells have a value of “DS”. This indicates that data were suppressed for confidentiality reasons because the group included fewer than 11 beneficiaries.
+ - Important Note: Some states have serious data quality issues for one or more months, making the data unusable for calculating telehealth services measures...Cells with a value of “DQ” (in the DataQuality column). indicate that data were suppressed due to unusable data. Additionally, some cells have a value of “DS”. This indicates that data were suppressed for confidentiality reasons because the group included fewer than 11 beneficiaries.
  - There is no data dictionary for this data set
 
 ##### 3. [County Health Rankings and Roadmaps - TN](https://www.countyhealthrankings.org/health-data/tennessee?year=2023&measure=Mental+Health+Providers) (CHRR_df)
@@ -64,7 +64,7 @@ The data sources include two publiclly available datasets on telehealth trends a
  - [Data Dictionary](https://docs.google.com/spreadsheets/d/18rWeCagA0EANH2OibUtBEG1RMDMgdEL4drCRTT9ekWg/edit?gid=1203469383#gid=1203469383)
 
 ## Part II: Data Import & Cleaning
-Either get the files from the original source (see links) or use the files in the capstone-data folder on this repository. Then, read in the data for each source. I made the following alterations to each data set: 
+Either get the files from the original source (see links above) or use the files in the capstone-data folder on this repository. Then, read in the data for each source. I made the following alterations to each data set: 
 
 ### 1. Medicare Data
 I renamed some of the columns for easier reference, but this is not required. I also multiplied and rounded the Pct_Telehealth column for easier readibility. Finally, I added a new column called "year-quarter" that combined year and quarter, for user in a later visualization. 
