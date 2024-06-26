@@ -27,9 +27,10 @@ It is fine to use this code or any data herein for any purpose, as long as you c
 5. TN Mental Health Trends (CHRR Data)
 
 #### Part IV: Insights
+1. Observations
+2. Insights
 
-#### Part V: References & Further Research
-
+#### References & Further Research
 
 # Notebook Walkthrough:
 ## Part I: Data Questions & Sources
@@ -127,10 +128,31 @@ In the final presentation there are three charts for each demographic category a
 3. Violin chart showing the DISTRIBUTION of the percentages for each demographic that used available telehealth services
 
 ### TN Mental Health Trends (CHRR Data)
+The County Health Rankings & Roadmaps (CHRR) is a national, publicly free data set that keeps track of a large variety of health factors and outcomes broken down by county in every state. I looked at 2023 TN data only. My analysis method included the creation of a correlation matrix, from which I then extracted statistically significant correlations, which I defined as either positive or negative 0.6 or higher. I then used Excel conditional formatting to highlight the significant variables and analyzed their relationships in a pivot table before charting them in python. I also included in the notebook an outline of the correlated variables. I then experimented with correlograms to give a quick view of which data sticks out among related variables. Based on these I chose a few variables to create individual scatter plots for the presentation. 
 
-## Part IV: Insights
+I ended up focusing on: 
+ - [Mental Health Provider Rate](https://www.countyhealthrankings.org/health-data/health-factors/clinical-care/access-to-care/mental-health-providers?year=2024) - Number of mental health providers per 100k population 
+ - [Average Number of Mentally Unhealthy Days](https://www.countyhealthrankings.org/health-data/health-outcomes/quality-of-life/poor-mental-health-days?year=2024)) - As reported in the past 30 days 
+ - [% Frequent Mental Distress](https://www.countyhealthrankings.org/health-data/health-outcomes/quality-of-life/frequent-mental-distress?year=2024) - Percentage of adults reporting 14 or more days of poor mental health per month
+ - [% Disconnected Youth](https://www.countyhealthrankings.org/health-data/health-factors/social-economic-factors/education/disconnected-youth?year=2024) - Percentage of young people between the ages of 16 and 24 who are not in school and not working
+ - [% Rural](https://www.countyhealthrankings.org/health-data/demographics/rural?year=2024) I cross referenced the other variables with this one spot any trends relevant to the rural lens of my analysis
+
+## Part IV: Observations & Insights
+### 1. Observations
+The notebook includes a detailed write-up of my observations for each data set and its visualizations. Much of this is reflected in the presentation and this portion is meant to be read alongside the charts and supplemental data included in the slides. 
+
+### 2. Insights
+Again, these are detailed in the notebook and presented in the slides. The general information is outlined below: 
+
+#### 1. Targeting Mental Telehealth Initiatives
+ - Telehealth initiatives in TN should be targeted towards engaging rural youth with mental health resources.
+ - Minorities should be a priority, especially black youths who have a higher rate of displacement from work and school compared to their peers.
+ - Telemedicine is not a replacement for in-person mental health treatment. Rather it is a good candidate for adding flexibility, continuity, and shoring up existing support-systems. 
+
+#### 2. Challenges (and Solutions)
+- Broadband Access: Broadband access is a well-known blocker to healthcare availability. A possible solution to this may be promoting methods of telehealth that do not require synchronous internet access. Specifically there is potential in using remote monitoring paired with store & forward methods of transmission to address lack of broadband access. 
+- State Medicare & Medicaid Policies: Unfortunately TN is one of the only states that does not reimburse Store and Forward or Remote Patient Monitoring for Medicaid or Medicare beneficiaries. Anyone looking to build out telehealth in TN should consider raising awareness of this issue to policy makers and legislators.
+- Technical Literacy: On this topic we should emphasize not only patient literacy, but also providers. Telehealth expansion programs could help providers improve their online presence and provide infrastructure for online portal scheduling. They could also help build out and promote mobile health apps for patients and providers to manage their health records and communications. 
+
 ## References & Further Research
-
-
-
-
+The end of the notebook includes some references and articles/resources for further research
